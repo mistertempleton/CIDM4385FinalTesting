@@ -129,12 +129,15 @@
       "title": "Saturday, November 9th",
       "data": [
         { "name" : "Breakfast", "time": "7:30 am", "place": "Main Lobby", "color":"#3392F0", 
-          "description": "Where are the cinnamon rolls at?"},
+          "description": "Where are the cinnamon rolls at?"
+        },
         { "name" : "Sessions", "time": "8:30 am - 12:00 pm", "place": "Conference Rooms A, B, and C", "color":"#3392F0", 
           "speaker":"Assorted",
-          "description": "Join in on the last round of sessions. Learn you somethin'!"},
+          "description": "Join in on the last round of sessions. Learn you somethin'!"
+        },
         { "name" : "Awards Lunch", "time": "12 pm", "place": "Location to be determined", "color":"#F05233", 
-          "description": "Join us to bid adieu to EDSIGCON | CONISAR 2019. See you next year!"}
+          "description": "Join us to bid adieu to EDSIGCON | CONISAR 2019. See you next year!"
+        }
       ]
     }
   ]
