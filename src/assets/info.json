@@ -137,6 +137,10 @@
         },
         { "name" : "Awards Lunch", "time": "12 pm", "place": "Location to be determined", "color":"#F05233", 
           "description": "Join us to bid adieu to EDSIGCON | CONISAR 2019. See you next year!"
+        },
+        {
+          "name":"", "time" :"" , "place" : "" , "color" : "#36BBE4",
+          "description" : ""
         }
       ]
     }
