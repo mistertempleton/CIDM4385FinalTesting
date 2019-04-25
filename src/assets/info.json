@@ -71,8 +71,10 @@
     {
       "title": "Wednesday, November 6th",
       "data": [
-        { "name" : "Light Reception", "time": "6:00 pm", "place": "Conference Room # 295", "color":"#33E4F0"},
-        { "name" : "Registration", "time": "6:00 pm", "place": "Conference Room # 295", "color":"#33E4F0"}
+        { "name" : "Light Reception", "time": "6:00 pm", "place": "Conference Room # 295", "color":"#33E4F0",
+        "description" : "Vanquish that jet lag with some delicious refreshments."},
+        { "name" : "Registration", "time": "6:00 pm", "place": "Conference Room # 295", "color":"#33E4F0",
+        "description": "Hurry and get registered before the fun kicks off in earnest tomorrow!"}
       ]
     },
     {
@@ -84,7 +86,9 @@
           "description": "Chow down and fuel up before the day gets off to a great start"},
         { "name" : "Sessions & Workshops Begin", "time": "12 pm", "place": "Conference Room A", "color":"#F05233", 
           "speaker":"John Doe",
-          "description": "And we're off to the races!"}
+          "description": "And we're off to the races!"},
+          {"name": "Industry Keynote Lunch", "time": "12 pm", "place" : "Restaurant to be determined", "color": "#36BBE4"},
+          {"name": "Sessions", "time": "2 pm - 4:30 pm", "place": "Conference rooms A, B, and C", "color":"#DEC311"}
       ]
     },
     {
