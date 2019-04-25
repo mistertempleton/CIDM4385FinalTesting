@@ -92,85 +92,49 @@
       ]
     },
     {
-      "title": "10:00 am",
+      "title": "Special Event",
       "data": [
-        { "name" : "Migration to Expo", "time": "10:00 am - 10:15 am", "place": "Room 2203", "color":"#C12071", 
+        { "name" : "Thursday Dinner & Fun Night", "time": "7 pm", "place": "Downtown Cleveland location to be determined", "color":"#C12071",
+          "description": "Join us a fun dinner of camaraderie and all the delicious food one could want!"},
+        { "name" : "EDSIG Fellow Induction", "time": "8 pm", "place": "At Restaurant", "color":"#30C120", 
           "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "React Native SVG Icons", "time": "10:15 am - 10:30 am", "place": "Room 2202", "color":"#30C120", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "HapiJS Services", "time": "10:30 am - 10:45 am", "place": "Room 2204", "color":"#DEC311", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Workshop - Advanced JSX", "time": "10:45 am - 11:00 am", "place": "Room 2201", "color":"#36BBE4", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+          "description": "Please join us in welcoming the newest EDSIG fellow inductees over dinner."}
       ]
     },
     {
-      "title": "11:00 am",
+      "title": "Friday, November 8th",
       "data": [
-        { "name" : "Migration from Ionic", "time": "11:00 am - 11:15 am", "place": "Room 2203", "color":"#C12071", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Community Integration", "time": "11:15 am - 11:30 am", "place": "Room 2202", "color":"#808080", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Feathers Workshop", "time": "11:30 am - 12:00 pm", "place": "Room 2204", "color":"#DEC311", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+        { "name" : "Breakfast", "time": "7:30 am", "place": "Main Lobby", "color":"#C12071", 
+          "description": "Waffles are good way to start the day."},
+        { "name" : "Sessions", "time": "8:30 - 12 pm", "place": "Conference Rooms A, B, and C", "color":"#808080", 
+          "speaker":"Assorted",
+          "description": "Isn't learning new things so much fun?"},
+        {
+          "name" : "Distinguished Educator Keynote Lunch", "time" : "12 pm", "place" : "Main Conference Room", "color":"#36BBE4",
+          "description" : "Join us for lunch and keynote from a distinuished educator from within the field of information systems"},
+        { "name" : "EDSIG Members Meeting", "time": "5 pm", "place": "A secret location, revealed only to those in the know", "color":"#DEC311", 
+          "speaker":"Dr. Jeffry Babb, President -- EDSIG",
+          "description": "Who's keeping the minutes?"},
+        {
+          "name" : "Reception", "time" : "6:30 pm", "place" : "Conference Room B", "color":"#DEC311",
+          "description" : "Join us for a reception to end the day. Don't worry, we won't keep you too long, and then it's off to dinner!"
+        },
+        {
+          "name" : "Dinner" , "time" : "7:30 pm" , "place" : "Location of your choosing", "color" :"#F05233",
+          "description" : "Go out with friends and colleagues, and enjoy the best Cleveland has to offer."
+        }
       ]
     },
     {
-      "title": "12:00 pm",
+      "title": "Saturday, November 9th",
       "data": [
-        { "name" : "Lunch", "time": "12:00 pm - 1:15 pm", "place": "Auditorium", "color":"#33E4F0"}
-      ]
-    },
-    {
-      "title": "1:15 pm",
-      "data": [
-        { "name" : "Introduction to Booster.io", "time": "1:15 pm - 1:30 pm", "place": "Room 2203", "color":"#3392F0", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Getting started with React Native", "time": "1:30 pm - 1:45 pm", "place": "Room 2202", "color":"#3392F0", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Advanced JSX", "time": "1:45 pm - 2:00 pm", "place": "Room 2204", "color":"#F05233", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-      ]
-    },
-    {
-      "title": "2:00 pm",
-      "data": [
-        { "name" : "Migration to Expo", "time": "2:00 pm - 2:15 pm", "place": "Room 2203", "color":"#C12071", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "React Native SVG Icons", "time": "2:15 pm - 2:30 pm", "place": "Room 2202", "color":"#30C120", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "HapiJS Services", "time": "2:30 pm - 2:45 pm", "place": "Room 2204", "color":"#DEC311", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Workshop - Advanced JSX", "time": "2:45 pm - 3:00 pm", "place": "Room 2201", "color":"#36BBE4", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
-      ]
-    },
-    {
-      "title": "3:00 pm",
-      "data": [
-        { "name" : "Migration from Ionic", "time": "3:00 pm - 3:15 pm", "place": "Room 2203", "color":"#C12071", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Community Integration", "time": "3:15 pm - 3:30 pm", "place": "Room 2202", "color":"#808080", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"},
-        { "name" : "Feathers Workshop", "time": "3:30 pm - 4:00 pm", "place": "Room 2204", "color":"#DEC311", 
-          "speaker":"John Doe",
-          "description": "Vivamus lobortis dapibus quam vitae sagittis. In in commodo nisi. In aliquam ante vel mi bibendum, maximus molestie ex pellentesque. Proin maximus efficitur efficitur. Aliquam a dolor ultricies, dapibus metus vitae, rutrum ex. Curabitur bibendum tempor ullamcorper"}
+        { "name" : "Breakfast", "time": "7:30 am", "place": "Main Lobby", "color":"#3392F0", 
+          "description": "Where are the cinnamon rolls at?"},
+        { "name" : "Sessions", "time": "8:30 am - 12:00 pm", "place": "Conference Rooms A, B, and C", "color":"#3392F0", 
+          "speaker":"Assorted",
+          "description": "Join in on the last round of sessions. Learn you somethin'!"},
+        { "name" : "Awards Lunch", "time": "12 pm", "place": "Location to be determined", "color":"#F05233", 
+          "description": "Join us to bid adieu to EDSIGCON | CONISAR 2019. See you next year!"}
       ]
     }
   ]
