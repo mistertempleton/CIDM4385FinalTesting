@@ -1,5 +1,5 @@
 export default {
-  API_URL: 'https://raw.githubusercontent.com/lexmartinez/conference-app/master/',
+  API_URL: 'https://raw.githubusercontent.com/mistertempleton/CIDM4385FinalTesting/master/',
   PRIMARY_BG_COLOR: '#353535',
   PRIMARY_TEXT_COLOR: '#999999',
   SECONDARY_BG_COLOR: '#F5FCFF',

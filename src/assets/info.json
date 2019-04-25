@@ -1,14 +1,14 @@
 {
-  "name":"EDSIGCON 2019",
+  "name":"EDSIGCON | CONISAR 2019",
   "location": {
     "city":"Cleveland, OH",
     "address": "24 Public Square, Cleveland, OH 44113",
     "latitude": 45.502722600,
     "longitude": -73.569356200
   },
-  "banner": "https://www.brightedge.com/sites/default/files/sharebanner-events.png",
+  "banner": "https://www.valuecoders.com/blog/wp-content/uploads/2016/08/react.png",
   "date": "Nov. 6 - 9, 2019",
-  "description": "This is a description in plain English, not Lorem Ipsum",
+  "description": "EDSIGCON is a conference devoted to Information Systems & Computing Education. CONISAR is dedicated to research in the areas of data analytics, Information Systems managment, cybersecurity, data privacy, big data managment, cloud and virtualization, and ethical issues",
   "speakers": [
     {
       "name": "Alex Roder",
