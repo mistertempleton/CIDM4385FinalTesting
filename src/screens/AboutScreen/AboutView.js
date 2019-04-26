@@ -58,7 +58,9 @@ class AboutView extends Component {
               <Text>Alex Roder</Text>
               <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
             </View>
-            {'\n'}{'\n'}{'\n'}{'\n'}{'\n'}{'\n'}{'\n'}{'\n'}{'\n'}{'\n'}
+            <text>
+              ("\n")
+            </text>
             <View>
             <Image  
               source={{uri: 'https://i.imgur.com/WV0Ey5B.jpg'}}
