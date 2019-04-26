@@ -57,8 +57,11 @@ class AboutView extends Component {
             />
             <View>
               <Text style={styles.name}>App Developer Info:</Text>
-              <Text>Lex Martinez</Text>
-              <Text style={styles.link}>me@lexmartinez.com</Text>
+              <Text>Alex Roder</Text>
+              <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
+              <Text style={styles.name}>App Developer Info:</Text>
+              <Text>Alex Roder</Text>
+              <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
             </View>
           </View>
         </View>
