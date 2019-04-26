@@ -51,13 +51,22 @@ class AboutView extends Component {
           <Text style={styles.description}>{this.props.conference.description}</Text>
           <View style={styles.author}>
             <Image
-              source={{uri: 'https://avatars3.githubusercontent.com/u/17863319?s=460&v=4'}}
+              source={{uri: 'https://i.imgur.com/GLebA0X.jpg'}}
               style={styles.avatar}
             />
             <View>
               <Text style={styles.name}>App Developer Info:</Text>
-              <Text>Lex Martinez</Text>
-              <Text style={styles.link}>me@lexmartinez.com</Text>
+              <Text>Alex Roder</Text>
+              <Text style={styles.link}>ajroder@buffs.wtamu.edu</Text>
+            </View>
+            <View>
+            <Image
+              source={{uri: 'https://i.imgur.com/WV0Ey5B.jpg'}}
+              style={styles.avatar}
+            />
+              <Text style={styles.name}>App Developer Info:</Text>
+              <Text>Trevor Vieth</Text>
+              <Text style={styles.link}>tdvieth1@buffs.wtamu.edu</Text>
             </View>
           </View>
         </View>
