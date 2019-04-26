@@ -59,6 +59,8 @@ class AboutView extends Component {
               <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
             </View>
             <View>
+          <Text style={styles.description}>{this.props.conference.description}</Text>
+          <View style={styles.author}>
             <Image  
               source={{uri: 'https://i.imgur.com/WV0Ey5B.jpg'}}
               style={styles.avatar}
@@ -68,6 +70,7 @@ class AboutView extends Component {
             </View>
           </View>
         </View>
+      </View>
       </ScrollView>
     );
   }

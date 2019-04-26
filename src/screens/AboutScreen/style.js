@@ -18,7 +18,7 @@ export default StyleSheet.create({
     textAlign: 'justify'
   },
   info: {
-    flex: 2,
+    flex: 1,
     marginTop: 7,
     alignItems: 'flex-start',
     flexDirection: 'row'
