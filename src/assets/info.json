@@ -8,7 +8,7 @@
   },
   "banner": "https://cdn-images-1.medium.com/max/2560/1*i4JSARqDcVOH5tlQByxVEw.png",
   "date": "Nov. 6 - 9, 2019",
-  "description": "EDSIGCON is a conference devoted to Information Systems & Computing Education. CONISAR is dedicated to research in the areas of data analytics, Information Systems managment, cybersecurity, data privacy, big data managment, cloud and virtualization, and ethical issues.",
+  "description": "EDSIGCON | CONISAR is a conference devoted to Information Systems & Computing Education. CONISAR is dedicated to research in the areas of data analytics, Information Systems managment, cybersecurity, data privacy, big data managment, cloud and virtualization, and ethical issues.",
   "speakers": [
     {
       "name": "Alex Roder",
@@ -23,7 +23,7 @@
       "bio": "A CIS at WT",
       "twitter": "proident",
       "github": "amet",
-      "subtitle": "Likes shack-building.",
+      "subtitle": "likes shack-building.",
       "avatar": "https://i.imgur.com/WV0Ey5B.jpg"
     },
     {
@@ -47,7 +47,7 @@
       "bio": "CEO at Facebook. Chief privacy-invader.",
       "twitter": "nostrud",
       "github": "elit",
-      "subtitle": "Is really a lizard in a skin suit.",
+      "subtitle": "is really a lizard in a skin suit.",
       "avatar": "https://media.npr.org/assets/img/2018/11/21/gettyimages-962142720-3f4af695a639cbc14deb90e88287cd3c19b676f4-s1100-c15.jpg"
     },
     {
@@ -55,7 +55,7 @@
       "bio": "Ex-CEO at Microsoft. Was Kinda mean back then, but now has literal 'save the world' kinda money, so it balances out, right?",
       "twitter": "ea",
       "github": "laborum",
-      "subtitle": "Suck it malaria",
+      "subtitle": "aka 'anti-malaria man'",
       "avatar": "https://specials-images.forbesimg.com/imageserve/5c76b4b84bbe6f24ad99c370/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=0&cropY2=4000"
     },
     {
@@ -63,7 +63,7 @@
       "bio": "CEO at Amazon",
       "twitter": "Lorem",
       "github": "sint",
-      "subtitle": "Giant human thumb",
+      "subtitle": "giant human thumb",
       "avatar": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=904&cropX2=1403&cropY1=262&cropY2=761"
     }
   ],
