@@ -55,8 +55,6 @@ class AboutView extends Component {
               style={styles.avatar}
             />
               <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
-              <Text style={styles.description}>{this.props.conference.description}</Text>
-              <View style={styles.author}>
             <View>
             <Image  
               source={{uri: 'https://i.imgur.com/WV0Ey5B.jpg'}}
