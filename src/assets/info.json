@@ -78,9 +78,9 @@
         { "name" : "Breakfast", "time": "7:30 am", "place": "Main Lobby", "color":"#3392F0",
           "description": "Chow down and fuel up before the day gets off to a great start"},
         { "name" : "Sessions & Workshops Begin", "time": "12 pm", "place": "Conference Room A", "color":"#F05233", 
-          "speaker":"John Doe",
+          "speaker":"Jeff Bezos",
           "description": "And we're off to the races!"},
-          {"name": "Industry Keynote Lunch", "time": "12 pm", "place" : "Restaurant to be determined", "color": "#36BBE4"},
+          {"name": "Industry Keynote Lunch", "time": "12:00 pm", "place" : "Restaurant to be determined", "color": "#36BBE4"},
           {"name": "Sessions", "time": "2 pm - 4:30 pm", "place": "Conference rooms A, B, and C", "color":"#DEC311"}
       ]
     },
@@ -88,9 +88,9 @@
       "title": "Special Event",
       "data": [
         { "name" : "Thursday Dinner & Fun Night", "time": "7 pm", "place": "Downtown Cleveland location to be determined", "color":"#C12071",
-          "description": "Join us a fun dinner of camaraderie and all the delicious food one could want!"},
+          "description": "Join us for a fun dinner full of camaraderie, and all the delicious food one could want!"},
         { "name" : "EDSIG Fellow Induction", "time": "8 pm", "place": "At Restaurant", "color":"#30C120", 
-          "speaker":"John Doe",
+          "speaker":"Dr. Jeffry Babb",
           "description": "Please join us in welcoming the newest EDSIG fellow inductees over dinner."}
       ]
     },
@@ -98,7 +98,7 @@
       "title": "Friday, November 8th",
       "data": [
         { "name" : "Breakfast", "time": "7:30 am", "place": "Main Lobby", "color":"#C12071", 
-          "description": "Waffles are good way to start the day."},
+          "description": "Waffles are a good way to start the day."},
         { "name" : "Sessions", "time": "8:30 - 12 pm", "place": "Conference Rooms A, B, and C", "color":"#808080", 
           "speaker":"Assorted",
           "description": "Isn't learning new things so much fun?"},
