@@ -51,24 +51,26 @@ class AboutView extends Component {
           <Text style={styles.description}>{this.props.conference.description}</Text>
           <View style={styles.author}>
             <Image
-              source={{uri: 'https://i.imgur.com/WV0Ey5B.jpg'}}
+              source={{uri: 'https://i.imgur.com/GLebA0X.jpg'}}
               style={styles.avatar}
               />
              <View>
               <Text style={styles.name}>App Developer Info:</Text>
-              <Text>Alex Roder</Text>
-              <Text style={styles.link}>ajroder2@buffs.wtamu.edu{"\n"}</Text>
+              <Text>Alexander Roder</Text>
+              <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
               </View>
-              <Image
-              source={{uri: 'https://i.imgur.com/GLebA0X.jpg'}}
+              <View style={styles.author}>
+            <Image
+              source={{uri: 'https://i.imgur.com/WV0Ey5B.jpg'}}
               style={styles.avatar}
               />
-              <View>
-              <Text style={styles.name}> Also:</Text>
+             <View>
+              <Text style={styles.name}>And:</Text>
               <Text>Trevor Vieth</Text>
               <Text style={styles.link}>tdvieth1@buffs.wtamu.edu</Text>
-            </View>
+              </View>
           </View>
+        </View>
         </View>
       </ScrollView>
       
