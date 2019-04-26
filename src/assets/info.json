@@ -13,15 +13,13 @@
     {
       "name": "Alex Roder",
       "bio": "A CIS Student at WT",
-      "twitter": "mistertempleton",
       "github": "mistertempleton",
-      "subtitle": "looking for employment.",
+      "subtitle": "hire me plz.",
       "avatar": "https://i.imgur.com/GLebA0X.jpg"
     },
     {
       "name": "Trevor Vieth",
       "bio": "A CIS at WT",
-      "twitter": "tdvieth",
       "github": "tdvieth1",
       "subtitle": "likes shack-building.",
       "avatar": "https://i.imgur.com/WV0Ey5B.jpg"
@@ -29,7 +27,6 @@
     {
       "name": "Jon Snow",
       "bio": "The King in the North",
-      "twitter": "wallwatcher7",
       "github": "iknownothingaboutdev",
       "subtitle": "a real know-nothing.",
       "avatar": "https://cdn.vox-cdn.com/thumbor/psDK42BpCunN475f88ms0_5YY_8=/71x0:570x374/920x613/filters:focal(71x0:570x374):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49958765/kit-harington-sad-jon-snow-game-of-thrones.0.0.jpg"
@@ -37,7 +34,6 @@
     {
       "name": "Jeffry Babb",
       "bio": "Associate ­Professor & Gensler Professor of Computer Information Systems at West Texas A&M University",
-      "twitter": "ahuimanu",
       "github": "ahuimanu",
       "subtitle": "thinks cats are cool",
       "avatar": "http://edsigcon.org/assets/img/team/babb.png"
@@ -45,7 +41,6 @@
     {
       "name": "Mark Zuckerberg",
       "bio": "CEO at Facebook. Chief privacy-invader.",
-      "twitter": "pftprivacy",
       "github": "plsdontmabellus",
       "subtitle": "is really a lizard in a skin suit.",
       "avatar": "https://media.npr.org/assets/img/2018/11/21/gettyimages-962142720-3f4af695a639cbc14deb90e88287cd3c19b676f4-s1100-c15.jpg"
@@ -53,7 +48,6 @@
     {
       "name": "Bill Gates",
       "bio": "Ex-CEO at Microsoft. Was Kinda mean back then, but now has literal 'save the world' kinda money, so it balances out, right?",
-      "twitter": "billgates",
       "github": "microsoft",
       "subtitle": "aka 'anti-malaria man'",
       "avatar": "https://specials-images.forbesimg.com/imageserve/5c76b4b84bbe6f24ad99c370/416x416.jpg?background=000000&cropX1=0&cropX2=4000&cropY1=0&cropY2=4000"
@@ -61,7 +55,6 @@
     {
       "name": "Jeff Bezos",
       "bio": "CEO at Amazon",
-      "twitter": "amazon",
       "github": "awsr0cks",
       "subtitle": "giant human thumb",
       "avatar": "https://specials-images.forbesimg.com/imageserve/5bb22ae84bbe6f67d2e82e05/416x416.jpg?background=000000&cropX1=904&cropX2=1403&cropY1=262&cropY2=761"
