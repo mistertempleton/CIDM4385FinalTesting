@@ -59,7 +59,8 @@ class AboutView extends Component {
               <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
             </View>
             <text>
-              ("\n")
+              {"\n"}
+              {"\n"}
             </text>
             <View>
             <Image  
