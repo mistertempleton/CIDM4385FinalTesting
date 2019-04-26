@@ -50,16 +50,15 @@ class AboutView extends Component {
           </View>
           <Text style={styles.description}>{this.props.conference.description}</Text>
           <View style={styles.author}>
-            <Image source={{uri: 'https://i.imgur.com/GLebA0X.jpg'}}/>
-           <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
-              
-           <Text style={styles.description}>{this.props.conference.description}</Text>  
-            <View style={styles.author}>
-            <Image  
+            <Image
               source={{uri: 'https://i.imgur.com/WV0Ey5B.jpg'}}
-              style={styles.avatar}/>
-              <Text>Trevor Vieth</Text>
-              <Text style={styles.link}>tdvieth1@buffs.wtamu.edu</Text>
+              source={{uri: 'https://i.imgur.com/GLebA0X.jpg'}}
+              style={styles.avatar}
+            />
+            <View>
+              <Text style={styles.name}>App Developer Info:</Text>
+              <Text>Lex Martinez</Text>
+              <Text style={styles.link}>me@lexmartinez.com</Text>
             </View>
           </View>
         </View>
