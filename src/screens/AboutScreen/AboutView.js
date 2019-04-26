@@ -55,11 +55,13 @@ class AboutView extends Component {
               style={styles.avatar}
             />
             <View>
+              <text>Developed by:</text>
               <Text>Alex Roder</Text>
               <Text style={styles.link}>ajroder2@buffs.wtamu.edu</Text>
             </View>
             <View>
               <Text>
+                And also:
               </Text>
               <Text>
               </Text>
