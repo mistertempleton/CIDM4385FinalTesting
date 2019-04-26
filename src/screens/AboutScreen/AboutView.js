@@ -55,16 +55,16 @@ class AboutView extends Component {
               style={styles.avatar}
             />
             <View>
-              <Text style={styles.name}>App Developer Info:</Text>
               <Text>Alex Roder</Text>
               <Text style={styles.link}>ajroder@buffs.wtamu.edu</Text>
             </View>
             <View>
+              <br/>
+              <br/>
             <Image
               source={{uri: 'https://i.imgur.com/WV0Ey5B.jpg'}}
               style={styles.avatar}
             />
-              <Text style={styles.name}>App Developer Info:</Text>
               <Text>Trevor Vieth</Text>
               <Text style={styles.link}>tdvieth1@buffs.wtamu.edu</Text>
             </View>
